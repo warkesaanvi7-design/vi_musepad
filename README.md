@@ -1,2 +1,2 @@
 # vi_musepad
-Musepad - Hackpad
+**Musepad - Hackpad**
